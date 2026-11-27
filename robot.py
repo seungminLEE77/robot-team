@@ -1,3 +1,3 @@
 name = "robot-1D"
-battery = 85
+battery = 800
 status = "대기"
